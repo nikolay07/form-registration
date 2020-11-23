@@ -1,0 +1,27 @@
+.form {
+  position: relative;
+  &__button {
+    display: block;
+  }
+}
+.login-error {
+  position: absolute;
+  color: red;
+  display: inline-block;
+  width: 300px;
+}
+.form-input {
+  border-color: none;
+}
+.form-input_false {
+  border-color: green;
+}
+.form-icon {
+  display: none;
+}
+.form-icon_visible {
+  display: inline-block;
+}
+.button-green {
+  background-color: lawngreen;
+}

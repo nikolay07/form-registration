@@ -1,0 +1,352 @@
+[
+  {
+    "users": [
+      { "id": 1, "name": "Leanne Graham", "username": "Bretsowood", "email": "Sincere@april.biz", "password": "11111" },
+      { "id": 2, "name": "Ervin Howell", "username": "Antonette", "email": "Shanna@melissa.tv", "password": "22222" },
+      {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "username": "Samantha",
+        "email": "Nathan@yesenia.net",
+        "password": "33333"
+      },
+      {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "username": "Karianne",
+        "email": "Julianne.OConner@kory.org",
+        "password": "44444"
+      },
+      {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "username": "Kamren",
+        "email": "Lucio_Hettinger@annie.ca",
+        "password": "55555"
+      }
+    ]
+  },
+  {
+    "products": [
+      {
+        "SKU": "4G180",
+        "Description": "Tenda 4G LTE 150Mbps Mobile WiFi Router | 4G180",
+        "CPT": 34,
+        "JHB": 70,
+        "DBN": 2,
+        "Total_Stock": 106,
+        "Dealer_Price": 750,
+        "Retail_Price": 952.17,
+        "Manufacturer": "Tenda",
+        "Image_URL": "https://scoop.co.za/download/marketing/images/4G180.jpg"
+      },
+      {
+        "SKU": "4G680",
+        "Description": "Tenda 4G LTE 300Mbps WiFi Router | 4G680",
+        "CPT": 0,
+        "JHB": 0,
+        "DBN": 0,
+        "Total_Stock": 0,
+        "Dealer_Price": 995,
+        "Retail_Price": 1252.17,
+        "Manufacturer": "Tenda",
+        "Image_URL": "https://scoop.co.za/download/marketing/images/4G680.jpg"
+      },
+      {
+        "SKU": "ACB-AC",
+        "Description": "Ubiquiti AirCube AC WiFi Router | ACB-AC",
+        "CPT": 20,
+        "JHB": 101,
+        "DBN": 3,
+        "Total_Stock": 124,
+        "Dealer_Price": 1025,
+        "Retail_Price": 1282.61,
+        "Manufacturer": "Ubiquiti",
+        "Image_URL": "https://scoop.co.za/download/marketing/images/ACB-AC.jpg"
+      },
+      {
+        "SKU": "AF-11FX",
+        "Description": "Ubiquiti AirFiberX 11GHz PtP Radio | AF-11FX",
+        "CPT": 10,
+        "JHB": 43,
+        "DBN": 2,
+        "TotalStock": 55,
+        "DealerPrice": 8595,
+        "RetailPrice": 10691.3,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AF-11FX.jpg"
+      },
+      {
+        "SKU": "AF-11FXDUPL",
+        "Description": "Ubiquiti AirFiberX 11Ghz Low Band Duplexer | AF-11FX-DUP-L",
+        "CPT": 21,
+        "JHB": 79,
+        "DBN": 2,
+        "TotalStock": 102,
+        "DealerPrice": 2650,
+        "RetailPrice": 3300.0,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AF-11FXDUPL.jpg"
+      },
+      {
+        "SKU": "AF-11G35",
+        "Description": "Ubiquiti AirFiber Dish 11Ghz 35dBi 81cm | AF-11G35",
+        "CPT": 15,
+        "JHB": 56,
+        "DBN": 3,
+        "TotalStock": 74,
+        "DealerPrice": 5325,
+        "RetailPrice": 6652.17,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AF-11G35.jpg"
+      },
+      {
+        "SKU": "AF-5XHD",
+        "Description": "Ubiquiti AirFiber5X HD PtP Radio Gigabit WiFi | AF-5XHD",
+        "CPT": 64,
+        "JHB": 117,
+        "DBN": 9,
+        "TotalStock": 190,
+        "DealerPrice": 5495,
+        "RetailPrice": 6865.22,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AF-5XHD.jpg"
+      },
+      {
+        "SKU": "AFI-INSK",
+        "Description": "Ubiquiti AmpliFi Instant Router +1 MeshPoint Kit | AFI-INS",
+        "CPT": 37,
+        "JHB": 113,
+        "DBN": 5,
+        "TotalStock": 155,
+        "DealerPrice": 2495,
+        "RetailPrice": 3126.09,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AFI-INSK.jpg"
+      },
+      {
+        "SKU": "AFI-INSR",
+        "Description": "Ubiquiti AmpliFi Instant Router | AFI-INS-R",
+        "CPT": 23,
+        "JHB": 52,
+        "DBN": 3,
+        "TotalStock": 78,
+        "DealerPrice": 1375,
+        "RetailPrice": 1717.39,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AFI-INSR.jpg"
+      },
+      {
+        "SKU": "AIR-D523X",
+        "Description": "Ubiquiti 5GHz AirFiber Dish 23dBi Slant 45 PtP | AF-5G23-S45",
+        "CPT": 16,
+        "JHB": 36,
+        "DBN": 5,
+        "TotalStock": 57,
+        "DealerPrice": 1450,
+        "RetailPrice": 1821.74,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AIR-D523X.jpg"
+      },
+      {
+        "SKU": "AIR-D530",
+        "Description": "Ubiquiti 5GHz AirMax Dish 30dBi Backhaul PtP | RD-5G30",
+        "CPT": 17,
+        "JHB": 18,
+        "DBN": 5,
+        "TotalStock": 40,
+        "DealerPrice": 1850,
+        "RetailPrice": 2304.35,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AIR-D530.jpg"
+      },
+      {
+        "SKU": "AIR-D530LW",
+        "Description": "Ubiquiti 5GHz AirMax Dish 30dBi Light Weight PtP | RD-5G30-LW",
+        "CPT": 62,
+        "JHB": 243,
+        "DBN": 16,
+        "TotalStock": 321,
+        "DealerPrice": 1395,
+        "RetailPrice": 1734.78,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AIR-D530.jpg"
+      }
+    ]
+  },
+  {
+    "users": [
+      { "id": 1, "name": "Leanne Graham", "username": "Bretsowood", "email": "Sincere@april.biz", "password": "11111" },
+      { "id": 2, "name": "Ervin Howell", "username": "Antonette", "email": "Shanna@melissa.tv", "password": "22222" },
+      {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "username": "Samantha",
+        "email": "Nathan@yesenia.net",
+        "password": "33333"
+      },
+      {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "username": "Karianne",
+        "email": "Julianne.OConner@kory.org",
+        "password": "44444"
+      },
+      {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "username": "Kamren",
+        "email": "Lucio_Hettinger@annie.ca",
+        "password": "55555"
+      }
+    ]
+  },
+  {
+    "products": [
+      {
+        "SKU": "4G180",
+        "Description": "Tenda 4G LTE 150Mbps Mobile WiFi Router | 4G180",
+        "CPT": 34,
+        "JHB": 70,
+        "DBN": 2,
+        "Total_Stock": 106,
+        "Dealer_Price": 750,
+        "Retail_Price": 952.17,
+        "Manufacturer": "Tenda",
+        "Image_URL": "https://scoop.co.za/download/marketing/images/4G180.jpg"
+      },
+      {
+        "SKU": "4G680",
+        "Description": "Tenda 4G LTE 300Mbps WiFi Router | 4G680",
+        "CPT": 0,
+        "JHB": 0,
+        "DBN": 0,
+        "Total_Stock": 0,
+        "Dealer_Price": 995,
+        "Retail_Price": 1252.17,
+        "Manufacturer": "Tenda",
+        "Image_URL": "https://scoop.co.za/download/marketing/images/4G680.jpg"
+      },
+      {
+        "SKU": "ACB-AC",
+        "Description": "Ubiquiti AirCube AC WiFi Router | ACB-AC",
+        "CPT": 20,
+        "JHB": 101,
+        "DBN": 3,
+        "Total_Stock": 124,
+        "Dealer_Price": 1025,
+        "Retail_Price": 1282.61,
+        "Manufacturer": "Ubiquiti",
+        "Image_URL": "https://scoop.co.za/download/marketing/images/ACB-AC.jpg"
+      },
+      {
+        "SKU": "AF-11FX",
+        "Description": "Ubiquiti AirFiberX 11GHz PtP Radio | AF-11FX",
+        "CPT": 10,
+        "JHB": 43,
+        "DBN": 2,
+        "TotalStock": 55,
+        "DealerPrice": 8595,
+        "RetailPrice": 10691.3,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AF-11FX.jpg"
+      },
+      {
+        "SKU": "AF-11FXDUPL",
+        "Description": "Ubiquiti AirFiberX 11Ghz Low Band Duplexer | AF-11FX-DUP-L",
+        "CPT": 21,
+        "JHB": 79,
+        "DBN": 2,
+        "TotalStock": 102,
+        "DealerPrice": 2650,
+        "RetailPrice": 3300.0,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AF-11FXDUPL.jpg"
+      },
+      {
+        "SKU": "AF-11G35",
+        "Description": "Ubiquiti AirFiber Dish 11Ghz 35dBi 81cm | AF-11G35",
+        "CPT": 15,
+        "JHB": 56,
+        "DBN": 3,
+        "TotalStock": 74,
+        "DealerPrice": 5325,
+        "RetailPrice": 6652.17,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AF-11G35.jpg"
+      },
+      {
+        "SKU": "AF-5XHD",
+        "Description": "Ubiquiti AirFiber5X HD PtP Radio Gigabit WiFi | AF-5XHD",
+        "CPT": 64,
+        "JHB": 117,
+        "DBN": 9,
+        "TotalStock": 190,
+        "DealerPrice": 5495,
+        "RetailPrice": 6865.22,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AF-5XHD.jpg"
+      },
+      {
+        "SKU": "AFI-INSK",
+        "Description": "Ubiquiti AmpliFi Instant Router +1 MeshPoint Kit | AFI-INS",
+        "CPT": 37,
+        "JHB": 113,
+        "DBN": 5,
+        "TotalStock": 155,
+        "DealerPrice": 2495,
+        "RetailPrice": 3126.09,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AFI-INSK.jpg"
+      },
+      {
+        "SKU": "AFI-INSR",
+        "Description": "Ubiquiti AmpliFi Instant Router | AFI-INS-R",
+        "CPT": 23,
+        "JHB": 52,
+        "DBN": 3,
+        "TotalStock": 78,
+        "DealerPrice": 1375,
+        "RetailPrice": 1717.39,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AFI-INSR.jpg"
+      },
+      {
+        "SKU": "AIR-D523X",
+        "Description": "Ubiquiti 5GHz AirFiber Dish 23dBi Slant 45 PtP | AF-5G23-S45",
+        "CPT": 16,
+        "JHB": 36,
+        "DBN": 5,
+        "TotalStock": 57,
+        "DealerPrice": 1450,
+        "RetailPrice": 1821.74,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AIR-D523X.jpg"
+      },
+      {
+        "SKU": "AIR-D530",
+        "Description": "Ubiquiti 5GHz AirMax Dish 30dBi Backhaul PtP | RD-5G30",
+        "CPT": 17,
+        "JHB": 18,
+        "DBN": 5,
+        "TotalStock": 40,
+        "DealerPrice": 1850,
+        "RetailPrice": 2304.35,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AIR-D530.jpg"
+      },
+      {
+        "SKU": "AIR-D530LW",
+        "Description": "Ubiquiti 5GHz AirMax Dish 30dBi Light Weight PtP | RD-5G30-LW",
+        "CPT": 62,
+        "JHB": 243,
+        "DBN": 16,
+        "TotalStock": 321,
+        "DealerPrice": 1395,
+        "RetailPrice": 1734.78,
+        "Manufacturer": "Ubiquiti",
+        "ImageURL": "https://scoop.co.za/download/marketing/images/AIR-D530.jpg"
+      }
+    ]
+  }
+]

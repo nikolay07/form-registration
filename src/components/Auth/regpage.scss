@@ -1,0 +1,89 @@
+.container {
+  background-color: lightskyblue;
+  border-radius: 10px;
+  box-shadow: 0 3px 5px lightslategrey;
+  width: 450px;
+  max-width: 100%;
+  overflow: hidden;
+
+  &__header {
+    background-color: mediumaquamarine;
+    padding: 20px;
+    border-radius: 10px;
+    h1 {
+      margin: 0;
+      text-align: center;
+    }
+  }
+  &__form {
+    padding: 20px;
+    &_control {
+      margin-bottom: 5px;
+      padding-bottom: 20px;
+      position: relative;
+      label {
+        display: inline-block;
+        margin-bottom: 5px;
+      }
+      input {
+        display: block;
+        border: 1px solid lightgrey;
+        border-radius: 5px;
+        font-family: inherit;
+        font-size: 14px;
+        padding: 10px;
+        width: 95%;
+      }
+      input:focus {
+        outline: 0;
+        outline-offset: 0;
+      }
+      small {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        visibility: hidden;
+      }
+    }
+    .success {
+      input {
+        border-color: green;
+      }
+
+      .icon-green {
+        visibility: visible;
+      }
+    }
+    .error {
+      input {
+        border-color: red;
+      }
+      .icon-red {
+        visibility: visible;
+      }
+      small {
+        visibility: visible;
+        color: red;
+      }
+    }
+    button {
+      background-color: blue;
+      color: white;
+      text-align: center;
+      width: 100%;
+      height: 40px;
+      text-transform: uppercase;
+      font-size: 16px;
+      border-radius: 10px;
+      border: 1px solid lightblue;
+      margin-top: 10px;
+    }
+  }
+}
+.icon-green,
+.icon-red {
+  position: absolute;
+  top: 40px;
+  right: 10px;
+  visibility: hidden;
+}

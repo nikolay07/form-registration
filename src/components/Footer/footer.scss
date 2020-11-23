@@ -1,0 +1,12 @@
+.footer {
+  background-color: #5cb1ba;
+  height: 10%;
+  width: 100%;
+  display: flex;
+  color: #ffffff;
+  display: flex;
+  &__text {
+    text-transform: uppercase;
+    margin: auto;
+  }
+}
